@@ -1,2 +1,2 @@
 # GreenhouseLettuce
-Greenhouse data for Lettuce
+Data for Greenhouse Lettuce
